@@ -1,6 +1,14 @@
 <h1>Veri Bilimi İçin En İyi 20 Python Kütüphanesi</h1>
-1. NumPy (Commits: 18449, Contributors: 675)</p>
-2. SciPy (Commits: 19591, Contributors: 631)</p>
+<h3>1. NumPy (Commits: 18449, Contributors: 675)</p></h3>
+NumPy bu alandaki başlıca paketlerden kütüphanelerden biridir. Büyük boyutlu ve çok boyutlu dizileri ve matrisleri işlemek için tasarlanmıştır. Yüksek düzeyde matematiksel fonksiyonlar yardımıyla bu nesnelerle çeşitli işlemlerin gerçekleştirilmesini mümkün kılar.</p>
+
+Yıl boyunca kütüphanede çok sayıda iyileştirme yapılmıştır. Hata düzeltmeleri ve uyumluluk sorunlarına ek olarak önemli değişiklikler yapmıştır. Ayrıca, bazı işlevler sayesinde artık Python'da bulunan herhangi bir kodlamanın dosyalarını işleyebilir hale gelmiştir.</p>
+
+<h3>2. SciPy (Commits: 19591, Contributors: 631)</h3></p>
+Bilimsel hesaplamalar için bir başka çekirdek kütüphane de SciPy'dir. Bu kütüphane NumPy'ye dayanır ve NumPy'in yeteneklerini genişletir. Scipy'nin ana veri yapısı yine Numpy tarafından uygulanan çok boyutlu bir dizidir. Paket, doğrusal cebir, olasılık teorisi, integral hesabı ve daha birçok görevi çözmede yardımcı araçlar içerir.</p>
+
+SciPy farklı işletim sistemlerine, yeni işlevlere, yöntemlere sürekli entegrasyon biçiminde ve özellikle güncellenmiş optimize edicilerle büyük yapı geliştirmeleri gösterdi.</p>
+
 3. Pandas (Commits: 17555, Contributors: 1235)</p>
 4. StatsModels (Commits: 10376, Contributors: 155)</p>
 <h2>Görüntüleme</h2>
