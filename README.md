@@ -9,7 +9,11 @@ Bilimsel hesaplamalar için bir başka çekirdek kütüphane de SciPy'dir. Bu k�
 
 SciPy farklı işletim sistemlerine, yeni işlevlere, yöntemlere sürekli entegrasyon biçiminde ve özellikle güncellenmiş optimize edicilerle büyük yapı geliştirmeleri gösterdi.</p>
 
-3. Pandas (Commits: 17555, Contributors: 1235)</p>
+<h3>3. Pandas (Commits: 18330, Contributors: 1349)</h3></p>
+Pandas kütüphanesi üst düzey veri yapıları ve analiz için çok çeşitli araçlar sağlayan bir Python kütüphanesidir. Bu paketin en büyük özelliği oldukça karmaşık işlemleri veri ile bir veya iki komutla tercüme etme yeteneğidir. Pandas, zaman serileri işlevselliğinin yanı sıra verileri gruplandırmak, filtrelemek ve birleştirmek için birçok yerleşik yöntem içerir. Tüm bunları kütüphanenin etkileyici hızı takip ediyor.
+
+Yüzlerce yeni özellik, geliştirmeler, hata düzeltmeleri ve API değişiklikleri dahil olmak üzere Pandas kütüphanesinin birkaç yeni sürümü yayınlandı. Bu iyileştirmeler, verileri gruplamak ve sıralamak için yeni yeteneklere, başvuru yöntemi için daha uygun bir çıktıya ve özel tip işlemlerini gerçekleştirmeye yönelik desteğe ilişkindir.
+
 4. StatsModels (Commits: 10376, Contributors: 155)</p>
 <h2>Görüntüleme</h2>
 5. Matplotlib (Commits: 26476, Contributors: 742)</p>
