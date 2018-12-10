@@ -14,7 +14,11 @@ Pandas kütüphanesi üst düzey veri yapıları ve analiz için çok çeşitli 
 
 Yüzlerce yeni özellik, geliştirmeler, hata düzeltmeleri ve API değişiklikleri dahil olmak üzere Pandas kütüphanesinin birkaç yeni sürümü yayınlandı. Bu iyileştirmeler, verileri gruplamak ve sıralamak için yeni yeteneklere, başvuru yöntemi için daha uygun bir çıktıya ve özel tip işlemlerini gerçekleştirmeye yönelik desteğe ilişkindir.
 
-4. StatsModels (Commits: 10376, Contributors: 155)</p>
+<h3>4. StatsModels (Commits: 10376, Contributors: 155)</h3></p>
+Statsmodels, istatistiksel modeller tahmini, istatistiksel testler yapma, vb. gibi istatistiksel veri analizi için birçok fırsat sağlayan bir Python modülüdür. Yardımı sayesinde birçok makine öğrenme yöntemini uygulayabilir ve farklı çizim olanaklarını keşfedebilirsiniz.
+
+Kütüphane sürekli olarak gelişmekte ve zenginleşmektedir. Böylelikle, bu sene zaman serisi gelişmeleri ve yeni sayım modelleri, yani GeneralizedPoisson, sıfır şişirilmiş modeller ve NegativeBinomialP ve yeni çok değişkenli yöntemler - faktör analizi, MANOVA ve ANOVA içinde tekrarlanan ölçümler getirildi.
+
 <h2>Görüntüleme</h2>
 5. Matplotlib (Commits: 26476, Contributors: 742)</p>
 6. Seaborn (Commits: 2044, Contributors: 83)</p>
