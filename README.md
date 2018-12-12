@@ -25,8 +25,9 @@ Kütüphane sürekli olarak gelişmekte ve zenginleşmektedir. Böylelikle, bu s
 7. Plotly (Commits: 2906, Contributors: 48)</p>
 8. Bokeh (Commits: 16983, Contributors: 294)</p>
 9. Pydot (Commits: 169, Contributors: 12)</p>
+
 <h2>Makine Öğrenmesi</h2>
-<h3>10. Scikit-learn (Commits: 23492, Contributors: 1214)<h3></p>
+<h3>10. Scikit-learn (Commits: 23492, Contributors: 1214)</h3></p>
 NumPy ve SciPy'ye dayanan bu Python modülü, verilerle çalışmak için en iyi kütüphanelerden biridir. Birçok standart makine öğrenimi ve kümeleme, regresyon, sınıflandırma, boyut küçültme ve model seçimi gibi veri madenciliği görevleri için algoritmalar sağlar.</p>
 
 Kütüphaneye yapılan pek çok geliştirme vardır. Çapraz doğrulama, birden fazla metriğin kullanılması için değiştirildi. En yakın komşular ve lojistik regresyonlar gibi çeşitli eğitim yöntemleri bazı küçük iyileştirmeler ile karşı karşıya. Son olarak en büyük güncellemelerden biri de, Scikit-Learn'de kullanılan terminoloji ve kurallar hakkında bilgi veren Ortak Terimler Sözlüğü ve API Öğeleri Sözlüğünün güncellenmesidir.</p>
