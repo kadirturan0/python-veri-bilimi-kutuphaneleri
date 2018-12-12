@@ -1,4 +1,4 @@
-<h1>Veri Bilimi İçin En İyi 20 Python Kütüphanesi</h1>
+<h1>Veri Bilimi İçin En İyi 20 Python Kütüphanesi / Paketi</h1>
 <h3>1. NumPy (Commits: 18449, Contributors: 675)</p></h3>
 NumPy bu alandaki başlıca paketlerden kütüphanelerden biridir. Büyük boyutlu ve çok boyutlu dizileri ve matrisleri işlemek için tasarlanmıştır. Yüksek düzeyde matematiksel fonksiyonlar yardımıyla bu nesnelerle çeşitli işlemlerin gerçekleştirilmesini mümkün kılar.</p>
 
