@@ -37,7 +37,12 @@ Kütüphaneye yapılan pek çok geliştirme vardır. Çapraz doğrulama, birden 
 <h2>Derin Öğrenme</h2>
 13. TensorFlow (Commits: 33339, Contributors: 1469)</p>
 14. PyTorch (Commits: 11306, Contributors: 635)</p>
-15. Keras (Commits: 4539, Contributors: 671)</p>
+<h3>15. Keras (Commits: 4539, Contributors: 671)</h3></p>
+
+Keras, Python ile yazılmış ve TensorFlow, CNTK veya Theano'nun üzerinde çalışabilen üst düzey bir sinir ağı API'sidir. Hızlı deneyler sağlamaya odaklanarak geliştirilmiştir. Fikirden mümkün olan en az gecikmeyle sonuçlanabilmek iyi bir araştırma yapmanın anahtarıdır.</p>
+
+Kolay ve hızlı prototipleme sağlar (kullanıcı dostu, modülerlik ve genişletilebilirlik yoluyla). Konvolüsyon ağlarını ve tekrarlayan ağları ve ikisinin kombinasyonlarını destekler. CPU ve GPU'da sorunsuz çalışır.</p>
+
 <h2>Dağıtılmış Derin Öğrenme</h2>
 16. Dist-keras / elephas / spark-deep-learning (Commits: 1125 / 170 / 67, Contributors: 5 / 13 / 11)</p>
 <h2>Dil İşleme</h2>
